@@ -5,4 +5,5 @@
 - 🤔 I’m looking for help with React Front-End
 - 🐦 Twitter: @forwardsecrecy
 - 📝 Medium: @forwardsecrecy
+- 💻 Devpost: @ronaldstoner
 - 🎥 Fun fact: I once acted in a scene with Jack Nicholson and Paul Rudd
