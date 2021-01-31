@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 😷 I’m currently working on the Decentralized Pandemic Reserve (DPR)
-- 🌱 I’m currently learning React Front-End
-- 🤔 I’m looking for help with React Front-End
+- 😷 I’m currently working on Casa!
+- 🌱 I’m currently learning Quantitative analysis, machine learning, xgboost
+- 🤔 I’m looking for help with BBC micro minification
 - 🐦 Twitter: @forwardsecrecy
 - 📝 Medium: @forwardsecrecy
 - 💻 Devpost: @ronaldstoner
